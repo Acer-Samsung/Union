@@ -1,6 +1,9 @@
+
+
 function sanash(object) {
     var points = new Map();
     var loggedUsers = new Map();
+
     for (let [key, value] of Object.entries(object)) {
         if (value.points === 50) {
             points.set(key, value.points)
