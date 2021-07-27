@@ -17,7 +17,7 @@ function sanash(object) {
     }
 
     console.log(points.size + " ta odamda point 50")
-    console.log(loggedUsers.size + " ta odam logged in")
+    console.log(loggedUsers.size + " ta odam logged in") 
 }
 
 var obb = {
